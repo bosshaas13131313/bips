@@ -76,7 +76,7 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Amir Taaki, Patrick Strateman
 | Standard
 | Final
-|-
+|- 
 | [[bip-0015.mediawiki|15]]
 | Applications
 | Aliases
